@@ -32,7 +32,7 @@ download aplikasi termux di sini <a href="https://f-droid.org/repo/com.termux_11
 ## Pilihan menu
 - [x] banyak
 
-<h5 align="left">gunakan dengan bujak !:</h5>
+<h5 align="left">gunakan dengan bijak !:</h5>
 
 ![Mengetik SVG](https://readme-typing-svg.herokuapp.com?lines=gunakan+dengan-baik....!+) 
 <h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
